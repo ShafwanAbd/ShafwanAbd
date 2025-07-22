@@ -1,6 +1,6 @@
 Perkenalkan nama saya **Muhammad Shafwan Abdullah**.\
-Saya seorang **Mahasiswa** di Universitas Siliwangi.\
-Saya memiliki minat pada bidang **Machine Learning**.\
+Saya seorang **Fresh Graduate** yang Lulus di tahun 2025 dari Universitas Siliwangi .\
+Saya memiliki minat pada bidang **Artificial Intelligence**.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/shafwanabd/)ku ya.
 
 <p align="left">
